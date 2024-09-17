@@ -1,0 +1,108 @@
+
+
+body {
+    color: #ffffff;
+    background: var(--cor-basica) url(../images/bg-desktop.svg) no-repeat center center;
+    background-size: cover;
+    max-width: var(--largura-max);
+    margin: auto;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cabecalho {
+    height: 6%;
+    margin-left: 20px;
+    margin-bottom: 120px;
+}
+
+.cabecalho .logo {
+    height: 100%;
+}
+
+.conteudo-principal {
+    display: flex;
+}
+
+.conteudo-principal .ilustracao {
+    width: 100%;
+    margin-left: 20px;
+}
+
+.conteudo-principal .informacoes {
+    width: 90%;
+    padding: 30px 50px 50px 50px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}
+
+.conteudo-principal .informacoes .titulo {
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    
+}
+
+.conteudo-principal .informacoes .descricao {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    padding: 20px 0 30px;
+}
+
+.conteudo-principal .informacoes a {
+    padding: 15px 60px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    box-shadow: 0px 5px 15px rgba(0,0,0, 0.5);
+    align-self: flex-start;
+}
+
+.informacoes a .btn-registre-se {
+    background-color: #ffffff;
+    color: var(--cor-basica);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.informacoes a:hover, .informacoes a:hover .btn-registre-se  {
+    background-color: var(--cor-acessoria);
+}
+
+.informacoes a:hover .btn-registre-se {
+    color: #ffffff;
+}
+
+.redes-sociais {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-right: 50px;
+}
+
+.redes-sociais .rede {
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    border: solid 3px #ffffff;
+    border-radius: 50%;
+    width: 58px;
+}
+
+.redes-sociais .rede a {
+    color: #ffffff;
+}
+
+.redes-sociais .rede:hover{
+    border: solid 3px var(--cor-acessoria);    
+}
+
+.redes-sociais .rede:hover a{
+    color: var(--cor-acessoria);    
+}

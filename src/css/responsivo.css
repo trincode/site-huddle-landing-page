@@ -1,0 +1,128 @@
+
+
+@media(max-width: 720px) {
+    body {
+        background: var(--cor-basica) url(../images/bg-mobile.svg) no-repeat center center;
+        background-size: cover;
+        height: auto;
+        margin: 5%;
+    }
+
+    .cabecalho {
+        width: 30%;
+        margin-left: 0;
+        margin-bottom: 60px;
+    }
+
+    .conteudo-principal {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .conteudo-principal .ilustracao {
+        width: 70%;
+        margin-left: 0;
+    }
+
+    .conteudo-principal .informacoes {
+        display: flex;
+        min-width: 320px;
+        text-align: center;
+        padding: 30px;
+    }
+
+    .conteudo-principal .informacoes .titulo {
+        font-size: 30px;
+        padding: 5px 0;
+    }
+    
+    .conteudo-principal .informacoes .descricao {
+        font-size: 15px;
+        padding: 30px 0;
+    }
+
+
+    .conteudo-principal .informacoes a {
+        padding: 15px 100px;
+        align-self: center;
+    }
+    
+    .redes-sociais {
+        margin-top: 60px;
+        margin-right: 0;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .redes-sociais .rede {
+        font-size: 20px;
+        padding: 10px;
+        text-align: center;
+        border: solid 2px #ffffff;
+        width: 45px;
+    }
+
+    .redes-sociais .rede a {
+        color:#ffffff;
+    }
+
+    .redes-sociais .rede:hover{
+        border: solid 2px var(--cor-acessoria);    
+    }
+
+}
+
+@media(max-width: 400px) {
+    body {
+        display: flex;
+        align-items: center;
+    }
+
+    .cabecalho {
+        width: 50%;
+    }
+}
+
+@media(max-width: 425px) {
+    body {
+        display: flex;
+        align-items: center;
+    }
+    
+    .cabecalho {
+        width: 70%;
+    }
+
+    .conteudo-principal .ilustracao {
+        min-width: 324px;
+    }
+    
+    .conteudo-principal .informacoes {
+        min-width: 324px;
+    }
+
+    
+    .redes-sociais .rede {
+        font-size: 15px;
+        padding: 10px;
+        text-align: center;
+        border: solid 2px #ffffff;
+        border-radius: 50%;
+        width: 40px;
+    }
+
+    .redes-sociais .rede a {
+        color:#ffffff;
+    }
+
+    .redes-sociais .rede:hover{
+        border: solid 2px var(--cor-acessoria);    
+    }
+
+}
+
+
+
+
+
+
