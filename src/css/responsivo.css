@@ -72,15 +72,23 @@
 
 }
 
-@media(max-width: 400px) {
+@media(max-width: 580px) {
     body {
         display: flex;
+        flex-direction: column;
         align-items: center;
     }
-
+    
     .cabecalho {
-        width: 50%;
+        display: flex;
+        justify-content: center;
+        width: 80%;
+        padding: 0;
     }
+
+    .cabecalho a {
+    }
+
 }
 
 @media(max-width: 425px) {
@@ -90,7 +98,7 @@
     }
     
     .cabecalho {
-        width: 70%;
+        width: 60%;
     }
 
     .conteudo-principal .ilustracao {
