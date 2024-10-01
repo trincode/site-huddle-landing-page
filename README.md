@@ -10,9 +10,9 @@ First landing page project of the website done by myself from start to finish! I
 
 ### Screenshot
 
-![](./src/design/site-ss1.png)
-![](./src/design/site-ss2.png)
-![](./src/design/site-ss3.png)
+![site1](./src/design/site-ss1.png)
+![site2](./src/design/site-ss2.png)
+![site3](./src/design/site-ss3.png)
 
 
 ### 🖇️ Links
