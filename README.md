@@ -10,9 +10,8 @@ First landing page project of the website done by myself from start to finish! I
 
 ### Screenshot
 
-![site1](./src/design/site-ss1.png)
-![site2](./src/design/site-ss2.png)
-![site3](./src/design/site-ss3.png)
+  <img src="./src/design/site-ss1.png" width="900"><img src="./src/design/site-ss2.png" width="452">
+  <img src="./src/design/site-ss3.png" width="200">
 
 
 ### 🖇️ Links
