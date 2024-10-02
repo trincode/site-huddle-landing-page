@@ -21,11 +21,10 @@ Primeiro projeto de site landing page realizado sozinho do início ao fim! É um
 
 ## Meu processo
 
-### 💻 Feito com
+### 💻 Tecnologias
 
-- HTML5
-- CSS3
-- CSS Flexbox
+- HTML
+- CSS
 
 ### ⚒️ Desafios e conceitos aplicados
 
