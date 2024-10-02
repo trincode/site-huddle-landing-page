@@ -4,11 +4,11 @@ Primeiro projeto de site landing page realizado sozinho do início ao fim! É um
 
 ## Visão geral
 
-### O desafio
+### ⚔️ O desafio
 
 - Construir o site com as imagens disponíveis
 
-### Screenshot
+### 🖼️ Screenshot
 
   <img src="./src/design/site-ss1.png" width="900"><img src="./src/design/site-ss2.png" width="560">
   <img src="./src/design/site-ss3.png" width="200">
