@@ -1,12 +1,12 @@
-# Frontend Mentor Solution - Website Huddle
+# Site Huddle – Solução para o Frontend Mentor
 
-First landing page project of the website done by myself from start to finish! It’s a solution for Frontend Mentor to practice HTML and CSS concepts. Although I had difficulties with some concepts, I am proud that I did it!
+Primeiro projeto de site landing page realizado sozinho do início ao fim! É uma solução para o Frontend Mentor para praticar conceitos de HTML e CSS. Apesar de ter tido dificuldade com alguns conceitos estou orgulhoso de conseguir ter concluído! 
 
-## Overview
+## Visão geral
 
-### The challenge
+### O desafio
 
-- Build out the project to the designs provided
+- Construir o site com as imagens disponíveis
 
 ### Screenshot
 
@@ -16,27 +16,27 @@ First landing page project of the website done by myself from start to finish! I
 
 ### 🖇️ Links
 
-- Live Site URL: [https://trincode.github.io/site-huddle-one-page](https://trincode.github.io/site-huddle-one-page/)
-- Solution URL: [https://github.com/trincode/site-huddle-one-page](https://github.com/trincode/site-huddle-one-page)
+- Acesso ao site: [https://trincode.github.io/site-huddle-one-page](https://trincode.github.io/site-huddle-one-page/)
+- Repositório URL: [https://github.com/trincode/site-huddle-one-page](https://github.com/trincode/site-huddle-one-page)
 
-## My process
+## Meu processo
 
-### 💻 Built with
+### 💻 Feito com
 
 - HTML5
 - CSS3
 - CSS Flexbox
 
-### ⚒️ Challenges and Concepts Applied
+### ⚒️ Desafios e conceitos aplicados
 
 - Responsive Design
 - CSS Flexbox
 
-### ⏲️ Aproximated Time
+### ⏲️ Tempo aproximado
 
 - 1 day
 
-## Author
+## Autor
 
 - LinkedIn - [Clayton Trindade](https://www.linkedin.com/in/clayton-trindade-93b925329/)
 - Frontend Mentor - [@trincode](https://www.frontendmentor.io/profile/trincode)
